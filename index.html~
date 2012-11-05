@@ -59,7 +59,7 @@
 	<section id="home">
           <div class="hero-unit">
             <h3>家庭IT维护</h3>
-            <p>Home IT care  tags:一站式IT服务</p>
+           <!-- <p>Home IT care  tags:一站式IT服务</p> -->
             <ul>
 	      <li>包含上述免费服务的基础之上，提供预约时间专项上门或远程服务。</li>
 	      <li>软硬件故障排查：解决令人头疼的电脑故障，并做预防性维护。</li>
@@ -73,7 +73,7 @@
 	<section id="ent">
           <div class="hero-unit">
             <h3>企业IT技术咨询</h3>
-            <p>tag:节约您的时间与金钱，使您有更多的时间和精力专注于您的核心业务</p>
+         <!--   tag:节约您的时间与金钱，使您有更多的时间和精力专注于您的核心业务-->
             <ul>
               <li>软硬件采购咨询</li>
               <li>网络布线和网络系统建立</li>
